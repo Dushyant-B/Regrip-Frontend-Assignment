@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,3 +19,6 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # Regrip-Frontend-Assignment
 >>>>>>> 2b7633977c4fcaf128db36e4cfdbd5b3c6124a73
+=======
+# Regrip-Frontend-Assignment
+>>>>>>> 95e79a3957ecb7210d892aa6838730924efac07b
